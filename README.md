@@ -2,6 +2,8 @@
 
 _(credit to @notadamking, [this repo](https://github.com/notadamking/Stock-Trading-Visualization) and [this article](https://towardsdatascience.com/visualizing-stock-trading-agents-using-matplotlib-and-gym-584c992bc6d4))_
 
+![](betting-graph.gif)
+
 This repository contains a Jupyter Notebook (`source/OHCL FB Bet Graph.ipynb`) with a custom class `FootballBettingGraph` that visualises bets (balance, profit, volumes, individual bets).
 
 The idea is similar to what Stock Traders would use to visualise market movements, applied to Football Betting. This can be used to visualise the training process of a model and how it makes decisions when to bet. The class can also be adopted to plot bets real-time.
