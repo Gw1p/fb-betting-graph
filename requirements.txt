@@ -1,0 +1,4 @@
+pandas==0.25.1
+matplotlib==3.2.1
+numpy==1.16.5
+mpl_finance==0.10.1
